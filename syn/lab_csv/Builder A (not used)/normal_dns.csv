@@ -1,3 +1,0 @@
-Flow Duration,Flow Bytes/s,Flow Packets/s,Total Fwd Packets,Total Length of Fwd Packets,Fwd Packets/s,SYN Flag Count,ACK Flag Count,Init_Win_bytes_forward,act_data_pkt_fwd,Source_File
-61.33686900138855,51.06227381657022,0.3097647517608027,19,3132,0.3097647517608027,0,19,255,15,normal_dns.pcap
-61.4068078994751,57.72975540111575,0.35826646511270704,22,3545,0.35826646511270704,0,22,286,10,normal_dns.pcap
