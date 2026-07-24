@@ -29,7 +29,7 @@ DEBUG_FLOW = False
 # CONFIG
 # ============================================================
 
-MODEL_PATH = "rf_opi_file_split.joblib"
+MODEL_PATH = "rf_opi_file_split.joblib"     # path ke model machine learning yang sudah dilatih sebelumnya
 
 INTERFACE = ["eth0", "lan0"]
 
